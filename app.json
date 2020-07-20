@@ -1,0 +1,8 @@
+{
+  "name": "Long Overdue Salon Questionnaire",
+  "description": "A salon patron health questionnaire.",
+  "repository": "https://github.com/pablobrady/hair-questionnaire.git",
+  "logo": "https://github.com/pablobrady/play-fetch/blob/master/images/TernaryGradient.png?raw=true",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}

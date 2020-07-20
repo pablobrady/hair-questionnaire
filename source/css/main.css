@@ -1,0 +1,21 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+html {
+  height  : 100%;
+  overflow: hidden;
+  position: relative;
+}
+body {
+  height  : 100%;
+  overflow: auto;
+  position: relative;
+}
+
+body {
+  box-sizing: border-box;
+}
